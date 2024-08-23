@@ -1,0 +1,19 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "csv_data",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "`서소코드`",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "`소화용수번호`",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
